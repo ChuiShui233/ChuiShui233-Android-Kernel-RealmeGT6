@@ -1,8 +1,8 @@
 [
 {
   "kernelSource": {
-    "name": "KernelSU-GTNeo_Dimensity_1200_Series",
-    "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
+    "name": "KernelSU-GT6",
+    "repo": "https://github.com/realme-kernel-opensource/realmeGT6-AndroidU-kernel-source",
     "branch": "T-Backup",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
