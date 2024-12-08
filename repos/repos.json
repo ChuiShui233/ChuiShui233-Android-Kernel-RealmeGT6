@@ -2,7 +2,7 @@
 {
   "kernelSource": {
     "name": "KernelSU-GT6",
-    "repo": https://github.com/ChuiShui233/realmeGT6-AndroidU-kernel-source",
+    "repo": "https://github.com/ChuiShui233/realmeGT6-AndroidU-kernel-source",
     "branch": "master",
     "device": "cupida",
     "defconfig": "cupida_defconfig"
